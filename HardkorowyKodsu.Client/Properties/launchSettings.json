@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HardkorowyKodsu.Client": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "apiBaseUrl": "https://localhost:7210/api"
+      }
+    }
+  }
+}
