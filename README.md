@@ -6,8 +6,12 @@ Recruitment task for the position of .NET Developer for SERTUM Sp. z o.o.
 ### API
 ASP.NET REST API with a connection to a database specified in a configuration file. Provides methods to display the database structure, tables, views and their column properties.
 
+![Sample API](img/sample_api.png)
+
 ### Client
 ASP.NET API with a connection to a database specified in a configuration file. Provides methods to display the database structure, tables, views, and column properties.
+
+![Sample Client](img/sample.png)
 
 ## Setup
 In order to run the programs, you must prepare the appropriate configuration.
